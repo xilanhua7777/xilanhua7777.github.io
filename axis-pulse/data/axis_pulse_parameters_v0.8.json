@@ -6,7 +6,7 @@
     "image_width_px": 3215,
     "image_height_px": 347,
     "sample_count": 360,
-    "version": "v0.9 Competition Collectors Edition",
+    "version": "v0.9.1 Classical Theme & Voice Seal Edition",
     "point_calibration_note": "当前为视觉对应式点位校准，并非带坐标控制点的测绘配准；后续如取得CAD/GIS/点云原始数据，可做精确地理配准。",
     "release_date": "2026-09-11",
     "competition": [
@@ -3381,7 +3381,7 @@
     ]
   },
   "score": {
-    "engine": "architecture-score-v0.9",
+    "engine": "architecture-score-v1.0",
     "pentatonic_semitones": [
       0,
       2,
@@ -3404,7 +3404,7 @@
       "hall": "long_chord_resonance"
     },
     "disclaimer": "采用现代五声音阶约束的当代声化方法，不构成清代宫廷音乐复原。",
-    "version": "0.9",
+    "version": "0.9.1",
     "node_motifs": {
       "N11": {
         "name": "缺席·开阈",
@@ -3696,6 +3696,13 @@
         "accent": "qin",
         "octave_bias": 0
       }
+    },
+    "phrase_model": "axis-theme-v1.0",
+    "melodic_reference": {
+      "title": "茉莉花",
+      "type": "PUBLIC_DOMAIN_TRADITIONAL_FOLK_MELODY",
+      "usage": "短句母题与建筑变奏；程序化原创配器，不使用任何现代录音或商业编曲",
+      "source": "https://imslp.org/wiki/Jasmine_Flower_(Folk_Songs,_Chinese)"
     }
   },
   "instruments": [
