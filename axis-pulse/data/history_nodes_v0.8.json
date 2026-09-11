@@ -1,0 +1,220 @@
+[
+  {
+    "nodeId": "N11",
+    "presence": "absent",
+    "oneLook": "大清门｜缺席之声",
+    "story": "你现在听见的第一座建筑，今天已经看不见了。大明门建于明永乐十八年，清代改称大清门，现已无存。",
+    "historyEcho": "先听一段沉默。建筑虽然消失，它仍在档案和中轴秩序中留下位置。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_DAMINGMEN"
+    ],
+    "semanticLayer": {
+      "energy": 0.88,
+      "reverb": 0.22,
+      "density": 0.78,
+      "silenceLeadMs": 800,
+      "fragmentation": 0.74,
+      "ritual": 0.5
+    },
+    "relatedHistoryRoutes": [
+      "HR_WEDDING"
+    ]
+  },
+  {
+    "nodeId": "N10",
+    "presence": "existing",
+    "oneLook": "天安门｜皇城入口",
+    "story": "这是城市通向皇城礼仪序列的重要门阙。",
+    "historyEcho": "历史路线在这里继续向北。",
+    "truthLevel": "CURATORIAL_INTERPRETATION",
+    "sourceIds": [],
+    "semanticLayer": {
+      "energy": 1.02,
+      "ritual": 0.55
+    },
+    "relatedHistoryRoutes": [
+      "HR_WEDDING"
+    ]
+  },
+  {
+    "nodeId": "N09",
+    "presence": "existing",
+    "oneLook": "端门｜门次渐进",
+    "story": "连续门阙把进入的节奏逐级叠加。",
+    "historyEcho": "这一段声音强调门与门之间的递进关系。",
+    "truthLevel": "CURATORIAL_INTERPRETATION",
+    "sourceIds": [],
+    "semanticLayer": {
+      "energy": 1.04,
+      "ritual": 0.6
+    },
+    "relatedHistoryRoutes": [
+      "HR_WEDDING"
+    ]
+  },
+  {
+    "nodeId": "N08",
+    "presence": "existing",
+    "oneLook": "午门｜紫禁城正门",
+    "story": "午门前后形成层层递进的门院序列，受古代“五门三朝”制度影响。",
+    "historyEcho": "清代传胪后，一甲三名可由太和门、午门正中的御路出宫。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_WUMEN",
+      "SRC_EXAM"
+    ],
+    "semanticLayer": {
+      "energy": 1.08,
+      "reverb": 0.12,
+      "density": 1.08,
+      "ritual": 0.78
+    },
+    "relatedHistoryRoutes": [
+      "HR_EXAM",
+      "HS_NEW_YEAR"
+    ]
+  },
+  {
+    "nodeId": "N07",
+    "presence": "existing",
+    "oneLook": "太和门｜外朝开启",
+    "story": "五门蓄势在这里完成，外朝礼仪空间随之展开。",
+    "historyEcho": "传胪后的御路经过太和门与午门。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_EXAM"
+    ],
+    "semanticLayer": {
+      "energy": 1.06,
+      "ritual": 0.72
+    },
+    "relatedHistoryRoutes": [
+      "HR_EXAM",
+      "HR_WEDDING"
+    ]
+  },
+  {
+    "nodeId": "N06",
+    "presence": "existing",
+    "oneLook": "太和殿｜外朝礼仪峰值",
+    "story": "元旦大朝时，王公百官天将明在午门外集合；皇帝先到中和殿，再在中和韶乐声中赴太和殿升座。",
+    "historyEcho": "本段为当代建筑声化创作，并非清代乐曲复原；音色类别参考清代中和韶乐史料。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_NEW_YEAR",
+      "SRC_SHAOYUE"
+    ],
+    "semanticLayer": {
+      "energy": 1.15,
+      "reverb": 0.24,
+      "density": 1.15,
+      "ritual": 1
+    },
+    "relatedHistoryRoutes": [
+      "HR_EXAM",
+      "HS_NEW_YEAR"
+    ]
+  },
+  {
+    "nodeId": "N05",
+    "presence": "existing",
+    "oneLook": "中和殿｜礼序收束",
+    "story": "元旦大朝中，皇帝先驻中和殿，再赴太和殿。",
+    "historyEcho": "这里短暂收束，像一次进入高潮前的呼吸。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_NEW_YEAR"
+    ],
+    "semanticLayer": {
+      "energy": 0.85,
+      "reverb": -0.08,
+      "density": 0.78,
+      "ritual": 0.72
+    },
+    "relatedHistoryRoutes": [
+      "HS_NEW_YEAR"
+    ]
+  },
+  {
+    "nodeId": "N04",
+    "presence": "existing",
+    "oneLook": "保和殿｜殿试之地",
+    "story": "乾隆五十四年（1789）以后，清代殿试固定在保和殿举行。",
+    "historyEcho": "考试发生在保和殿，名字响起在太和殿，人生的新路从午门开始。此句为团队策展转译。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_EXAM"
+    ],
+    "semanticLayer": {
+      "energy": 1.06,
+      "reverb": 0.1,
+      "density": 1.04,
+      "ritual": 0.82
+    },
+    "relatedHistoryRoutes": [
+      "HR_EXAM"
+    ]
+  },
+  {
+    "nodeId": "N03",
+    "presence": "existing",
+    "oneLook": "乾清宫｜千叟宴",
+    "story": "康熙六十一年曾在乾清宫前宴请千余老人；乾隆时期的千叟宴规模更大。",
+    "historyEcho": "这里不只有一个人的声音。离散音点以“席位”意象汇聚。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_QIANQING"
+    ],
+    "semanticLayer": {
+      "energy": 0.94,
+      "density": 1.2,
+      "crowd": 0.9,
+      "intimacy": 0.5
+    },
+    "relatedHistoryRoutes": [
+      "HS_QIANSOU"
+    ]
+  },
+  {
+    "nodeId": "N02",
+    "presence": "existing",
+    "oneLook": "交泰殿｜宫里的时间",
+    "story": "东次间曾设铜壶滴漏，西次间设大自鸣钟；皇帝大婚时皇后册、宝也安设于此。",
+    "historyEcho": "历史时间短暂接管节拍，随后把节奏交还给你的行走。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_JIAOTAI",
+      "SRC_WEDDING"
+    ],
+    "semanticLayer": {
+      "energy": 0.9,
+      "timePulse": 1,
+      "intimacy": 0.74
+    },
+    "relatedHistoryRoutes": [
+      "HS_WEDDING_INNER"
+    ]
+  },
+  {
+    "nodeId": "N01",
+    "presence": "existing",
+    "oneLook": "坤宁宫｜合卺之地",
+    "story": "康熙四年（1665）玄烨大婚在坤宁宫行合卺礼；此后多次皇帝大婚也与坤宁宫相关。",
+    "historyEcho": "中轴走到这里，不再只有宏大的礼制，也开始进入一个人的生活。",
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_KUNNING",
+      "SRC_WEDDING"
+    ],
+    "semanticLayer": {
+      "energy": 0.86,
+      "reverb": -0.04,
+      "density": 0.88,
+      "intimacy": 1
+    },
+    "relatedHistoryRoutes": [
+      "HS_WEDDING_INNER"
+    ]
+  }
+]
