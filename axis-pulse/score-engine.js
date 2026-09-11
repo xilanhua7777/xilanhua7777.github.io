@@ -100,6 +100,7 @@
         e.harmony=stats.symmetry>.7?[e.pitchMidi,pentatonicMidi(degree+3,register,root,pent)]:[e.pitchMidi];
         e.bassWeight=lerp(.12,.58,stats.center);
         e.melodicPriority=!phrase.rests.includes(step);
+        if(e.motifStep===step)e.pureStep=true;
         e.phraseRole=step===0?'opening':isCadence?'cadence':isAnswer?'answer':'question';
         e.phraseModel=PHRASE_MODEL;
         e.architectureControl={...stats,ornamentalTurn};
