@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SRC_AXIS_PLAN",
+    "institution": "北京市人民政府 / 北京市文物局",
+    "title": "北京中轴线保护管理规划（2022年—2035年）",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202301/t20230130_2908430.html"
+  },
+  {
+    "id": "SRC_WUMEN",
+    "institution": "故宫博物院",
+    "title": "午门",
+    "url": "https://www.dpm.org.cn/explore/building/236454.html"
+  },
+  {
+    "id": "SRC_DAMINGMEN",
+    "institution": "故宫博物院",
+    "title": "大明门",
+    "url": "https://www.dpm.org.cn/lemmas/244140.html"
+  },
+  {
+    "id": "SRC_EXAM",
+    "institution": "故宫博物院",
+    "title": "清代殿试",
+    "url": "https://www.dpm.org.cn/court/system/236363.html"
+  },
+  {
+    "id": "SRC_NEW_YEAR",
+    "institution": "故宫博物院",
+    "title": "元旦大朝",
+    "url": "https://www.dpm.org.cn/court/system/236364.html"
+  },
+  {
+    "id": "SRC_SHAOYUE",
+    "institution": "故宫博物院",
+    "title": "中和韶乐",
+    "url": "https://www.dpm.org.cn/lemmas/241112.html"
+  },
+  {
+    "id": "SRC_WEDDING",
+    "institution": "故宫博物院",
+    "title": "龙凤呈祥——清代皇帝大婚典礼",
+    "url": "https://www.dpm.org.cn/learing_detail/256014.html"
+  },
+  {
+    "id": "SRC_QIANQING",
+    "institution": "故宫博物院",
+    "title": "乾清宫 / 千叟宴",
+    "url": "https://www.dpm.org.cn/show/225721.html"
+  },
+  {
+    "id": "SRC_JIAOTAI",
+    "institution": "故宫博物院",
+    "title": "交泰殿",
+    "url": "https://www.dpm.org.cn/explore/building/236467.html"
+  },
+  {
+    "id": "SRC_KUNNING",
+    "institution": "故宫博物院",
+    "title": "坤宁宫",
+    "url": "https://www.dpm.org.cn/explore/building/236487.html"
+  }
+]

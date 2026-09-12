@@ -1,0 +1,80 @@
+[
+  {
+    "id": "HR_EXAM",
+    "type": "route",
+    "label": "金榜题名 · 传胪御路",
+    "nodes": [
+      "N04",
+      "N06",
+      "N07",
+      "N08"
+    ],
+    "truthLevel": "RITUAL_RECONSTRUCTION",
+    "sourceIds": [
+      "SRC_EXAM"
+    ]
+  },
+  {
+    "id": "HR_WEDDING",
+    "type": "route_with_gap",
+    "label": "皇后入宫",
+    "nodes": [
+      "N11",
+      "N10",
+      "N09",
+      "N08",
+      "N07",
+      {
+        "gap": true,
+        "label": "中左门—后左门—乾清门（当前章节未建模）"
+      },
+      "N01"
+    ],
+    "truthLevel": "RITUAL_RECONSTRUCTION",
+    "sourceIds": [
+      "SRC_WEDDING"
+    ]
+  },
+  {
+    "id": "HS_NEW_YEAR",
+    "type": "ritual_scene",
+    "label": "元旦大朝",
+    "nodes": [
+      "N08",
+      "N05",
+      "N06"
+    ],
+    "truthLevel": "RITUAL_RECONSTRUCTION",
+    "sourceIds": [
+      "SRC_NEW_YEAR",
+      "SRC_SHAOYUE"
+    ]
+  },
+  {
+    "id": "HS_QIANSOU",
+    "type": "historical_scene",
+    "label": "千叟宴",
+    "nodes": [
+      "N03"
+    ],
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_QIANQING"
+    ]
+  },
+  {
+    "id": "HS_WEDDING_INNER",
+    "type": "historical_scene",
+    "label": "婚成礼 · 内廷人生",
+    "nodes": [
+      "N02",
+      "N01"
+    ],
+    "truthLevel": "DOCUMENTED",
+    "sourceIds": [
+      "SRC_WEDDING",
+      "SRC_JIAOTAI",
+      "SRC_KUNNING"
+    ]
+  }
+]

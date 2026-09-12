@@ -1,0 +1,123 @@
+[
+  {
+    "nodeId": "N01",
+    "journeyOrder": 10,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N02",
+    "journeyOrder": 9,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N03",
+    "journeyOrder": 8,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N04",
+    "journeyOrder": 7,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N05",
+    "journeyOrder": 6,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N06",
+    "journeyOrder": 5,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N07",
+    "journeyOrder": 4,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N08",
+    "journeyOrder": 3,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N09",
+    "journeyOrder": 2,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N10",
+    "journeyOrder": 1,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "existing",
+    "manualArrivalAllowed": true
+  },
+  {
+    "nodeId": "N11",
+    "journeyOrder": 0,
+    "lat": null,
+    "lng": null,
+    "radiusM": 45,
+    "verified": false,
+    "source": null,
+    "presence": "absent",
+    "manualArrivalAllowed": true
+  }
+]
